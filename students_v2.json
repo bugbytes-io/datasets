@@ -1,0 +1,127 @@
+[
+    {
+        "id": "d15782d9-3d8f-4624-a88b-c8e836569df8",
+        "name": "Eric Travis",
+        "date_of_birth": "1995-05-25",
+        "GPA": "3.0",
+        "course": "Computer Science",
+        "department": "Science and Engineering",
+        "fees_paid": false,
+        "modules": [
+            {
+                "name": "Data Science and Machine Learning",
+                "professor": "Prof. Susan Love",
+                "credits": 20,
+                "registration_code": "abc"
+            },
+            {
+                "name": "Web Development",
+                "professor": "Prof. James Herman",
+                "credits": 20,
+                "registration_code": "abc"
+            },
+            {
+                "name": "Relational Databases and SQL",
+                "professor": "Prof. Samantha Curtis",
+                "credits": 10,
+                "registration_code": "abc"
+            }
+        ]
+    },
+    {
+        "id": "4c7b4c43-c863-4855-abc0-3657c078ce23",
+        "name": "Mark Smith",
+        "date_of_birth": "1996-02-10",
+        "GPA": "2.5",
+        "course": null,
+        "department": "Science and Engineering",
+        "fees_paid": true
+    },
+    {
+        "id": "5cd9ad59-fcf1-462c-8863-282a9fb693e4",
+        "name": "Marissa Barker",
+        "date_of_birth": "1996-10-01",
+        "GPA": "3.5",
+        "course": "Biology",
+        "department": "Life Sciences",
+        "fees_paid": false,
+        "modules": [
+            {
+                "name": "Genes, Molecules and Cells",
+                "professor": "Prof. Joseph Clark",
+                "credits": 20,
+                "registration_code": "abc"
+            },
+            {
+                "name": "Animal Biology",
+                "professor": "Prof. Marilyn Gordon",
+                "credits": 20,
+                "registration_code": "abc"
+            },
+            {
+                "name": "Sports Science",
+                "professor": "Prof. Nicole Johnson",
+                "credits": 10,
+                "registration_code": "abc"
+            }
+        ]
+    },
+    {
+        "id": "48dda775-785d-41e3-b0dd-26a4a2f7722f",
+        "name": "Justin Holden",
+        "date_of_birth": "1994-08-22",
+        "GPA": "3.23",
+        "course": "Philosophy",
+        "department": "Arts and Humanities",
+        "fees_paid": true,
+        "modules": [
+            {
+                "name": "Externalism and Reference",
+                "professor": "Prof. Brian Sellers",
+                "credits": 20,
+                "registration_code": "abc"
+            },
+            {
+                "name": "Formal Logic",
+                "professor": "Prof. Gregory Fisher",
+                "credits": 20,
+                "registration_code": "abc"
+            },
+            {
+                "name": "Moral Philosophy",
+                "professor": "Prof. Michelle Wilson",
+                "credits": 10,
+                "registration_code": "abc"
+            }
+        ]
+    },
+    {
+        "id": "7ffe2ceb-562b-4edd-b74c-3741e1b08453",
+        "name": "Michelle Thompson",
+        "date_of_birth": "1995-08-05",
+        "GPA": "3.9",
+        "course": "Film Studies",
+        "department": "Arts and Humanities",
+        "fees_paid": true,
+        "modules": [
+            {
+                "name": "Japanese Cinema",
+                "professor": "Prof. Travis Hudson",
+                "credits": 20,
+                "registration_code": "abc"
+            },
+            {
+                "name": "South Korean Cinema",
+                "professor": "Prof. Todd Black",
+                "credits": 20,
+                "registration_code": "abc"
+            },
+            {
+                "name": "French New Wave Cinema",
+                "professor": "Prof. Bailey Stanley",
+                "credits": 10,
+                "registration_code": "abc"
+            }
+        ]
+    }
+]
