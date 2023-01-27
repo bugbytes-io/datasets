@@ -1,0 +1,144 @@
+[
+    {
+        "id": "d15782d9-3d8f-4624-a88b-c8e836569df8",
+        "name": "Eric Travis",
+        "date_of_birth": "1995-05-25",
+        "GPA": "3.0",
+        "course": "Computer Science",
+        "department": "Science and Engineering",
+        "fees_paid": false,
+        "modules": [
+            {
+                "id": 1,
+                "name": "Data Science and Machine Learning",
+                "professor": "Prof. Susan Love",
+                "credits": 20,
+                "registration_code": "abc"
+            },
+            {
+                "id": "e96e86a6-c4e0-4441-af43-0c22cc472e18",
+                "name": "Web Development",
+                "professor": "Prof. James Herman",
+                "credits": 20,
+                "registration_code": "abc"
+            },
+            {
+                "id": 3,
+                "name": "Relational Databases and SQL",
+                "professor": "Prof. Samantha Curtis",
+                "credits": 10,
+                "registration_code": "abc"
+            }
+        ],
+        "tags": "motivated, skilled, hard-working"
+    },
+    {
+        "id": "4c7b4c43-c863-4855-abc0-3657c078ce23",
+        "name": "Mark Smith",
+        "date_of_birth": "1996-02-10",
+        "GPA": "2.5",
+        "course": null,
+        "department": "Science and Engineering",
+        "fees_paid": true,
+        "tags": "slacker, lazy"
+    },
+    {
+        "id": "5cd9ad59-fcf1-462c-8863-282a9fb693e4",
+        "name": "Marissa Barker",
+        "date_of_birth": "1996-10-01",
+        "GPA": "3.5",
+        "course": "Biology",
+        "department": "Life Sciences",
+        "fees_paid": false,
+        "modules": [
+            {
+                "id": 55,
+                "name": "Genes, Molecules and Cells",
+                "professor": "Prof. Joseph Clark",
+                "credits": 20,
+                "registration_code": "abc"
+            },
+            {
+                "id": 66,
+                "name": "Animal Biology",
+                "professor": "Prof. Marilyn Gordon",
+                "credits": 20,
+                "registration_code": "abc"
+            },
+            {
+                "id": "8df954b5-bd3e-4316-8153-7d3d68fc0cef",
+                "name": "Sports Science",
+                "professor": "Prof. Nicole Johnson",
+                "credits": 10,
+                "registration_code": "abc"
+            }
+        ],
+        "tags": "motivated, skilled, hard-working"
+    },
+    {
+        "id": "48dda775-785d-41e3-b0dd-26a4a2f7722f",
+        "name": "Justin Holden",
+        "date_of_birth": "1994-08-22",
+        "GPA": "3.23",
+        "course": "Philosophy",
+        "department": "Arts and Humanities",
+        "fees_paid": true,
+        "modules": [
+            {
+                "id": "f82d9771-1774-4c65-b290-592bb402d66a",
+                "name": "Externalism and Reference",
+                "professor": "Prof. Brian Sellers",
+                "credits": 20,
+                "registration_code": "abc"
+            },
+            {
+                "id": "86e9b8cd-b24c-4465-b3cd-7cf3ebd99e4e",
+                "name": "Formal Logic",
+                "professor": "Prof. Gregory Fisher",
+                "credits": 20,
+                "registration_code": "abc"
+            },
+            {
+                "id": "b762ddd2-2d99-47b0-b022-4c629e0d1f41",
+                "name": "Moral Philosophy",
+                "professor": "Prof. Michelle Wilson",
+                "credits": 10,
+                "registration_code": "abc"
+            }
+        ],
+        "tags": "hipster, lazy, slacker"
+    },
+    {
+        "id": "7ffe2ceb-562b-4edd-b74c-3741e1b08453",
+        "name": "Michelle Thompson",
+        "date_of_birth": "1995-08-05",
+        "GPA": "3.9",
+        "course": "Film Studies",
+        "department": "Arts and Humanities",
+        "fees_paid": true,
+        "modules": [
+            {
+                "id": 101,
+                "name": "Japanese Cinema",
+                "professor": "Prof. Travis Hudson",
+                "credits": 20,
+                "registration_code": "abc"
+            },
+            {
+                "id": 102,
+                "name": "South Korean Cinema",
+                "professor": "Prof. Todd Black",
+                "credits": 20,
+                "registration_code": "abc"
+            },
+            {
+                "id": 103,
+                "name": "French New Wave Cinema",
+                "professor": "Prof. Bailey Stanley",
+                "credits": 10,
+                "registration_code": "abc"
+            }
+        ],
+        "tags": "erudite, clever, motivated"
+    }
+]
